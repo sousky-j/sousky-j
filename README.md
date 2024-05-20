@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-f26321?style=flat-square&logo=MATLAB&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-f26321?style=flat-square&https://avatars.githubusercontent.com/u/8590076?s=200&v=4&logoColor=white"/>
 <br>
   <br>
 <h1>Tools</h1>
